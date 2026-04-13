@@ -1,6 +1,7 @@
 # VaultedEscrow Frontend
 
 A modern web app for milestone-based escrow contracts, built for Indian freelancers and agencies. Features a 3D morphing particle background, automated milestone management, and system-driven trust.
+This is just a frontend, no backend features are available. 
 
 ## Features
 
